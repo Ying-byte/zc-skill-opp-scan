@@ -1,0 +1,20 @@
+{
+  "name": "zc-skill-opp-scan",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "license": "MIT",
+  "description": "渠道现搜 — portable MCP + Skill",
+  "bin": {
+    "zc-skill-opp-scan": "./stdio_mcp_server.mjs"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "mcp",
+    "skill",
+    "career",
+    "opp-scan"
+  ]
+}
